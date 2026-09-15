@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-header.svg" width="100%" alt="Riva Imanudin 3D Cybernetic Robotic ASCII HUD Header" />
+  <img src="https://raw.githubusercontent.com/rivaile96/rivaile96/main/assets/cyber-header.svg" width="100%" alt="Riva Imanudin Cybernetic Robotic Terminal Header" />
 </div>
 
 <br/>
