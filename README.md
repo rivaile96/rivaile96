@@ -2,17 +2,15 @@
 
   <!-- Cyber Animated Header -->
   <a href="https://github.com/rivaile96">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi+there%2C+I'm+Riva+Imanudin+%F0%9F%91%8B;Fullstack+Architect+%26+System+Engineer+%E2%9A%99%EF%B8%8F;AI+Agentic+Systems+%26+Automation+%F0%9F%A4%96;Turning+Complex+Logic+into+Smooth+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there%2C+I'm+Riva+Imanudin+%F0%9F%91%8B;Fullstack+Architect+%26+System+Engineer+%E2%9A%99%EF%B8%8F;AI+Agentic+Systems+%26+Automation+%F0%9F%A4%96;Turning+Complex+Logic+into+Smooth+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=rivaile96&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=rivaile96&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+  <br/>
 
-  <!-- Glowing Animated Quote / Status -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  <!-- Reliable Profile Views Counter -->
+  <a href="https://github.com/rivaile96">
+    <img src="https://profile-counter.glitch.me/rivaile96/count.svg" alt="Profile Views" />
+  </a>
 
 </div>
 
@@ -20,14 +18,10 @@
 
 ### ⚡ Neural Network & Directive
 
-```yaml
-identity:
-  name: Riva Imanudin
-  handle: @rivaile96
-  role: Fullstack Software Engineer & DevOps / System Integrator
-  focus: AI-driven Architectures, Resilient Distributed Backends & Modern Frontends
-  status: "Building next-gen autonomous systems & enterprise SaaS 🚀"
-```
+* 👤 **Name:** Riva Imanudin (`@rivaile96`)
+* 💼 **Role:** Fullstack Software Engineer & DevOps Architect
+* 🎯 **Focus:** AI-Driven Architectures, Resilient Distributed Backends & Modern Frontends
+* 🚀 **Status:** Building next-gen autonomous systems & enterprise SaaS
 
 ---
 
@@ -75,13 +69,13 @@ identity:
 ### 📊 Real-Time GitHub Telemetry & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivaile96&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivaile96&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaile96&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rivaile96&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="48%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rivaile96&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivaile96&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaile96&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="100%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rivaile96&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -89,18 +83,16 @@ identity:
 ### 🐍 Contribution Activity Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rivaile96/rivaile96/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rivaile96/rivaile96/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
 
 ### 🛰️ Deployed Systems & Key Projects
 
-| System | Tech Stack | Status / Description |
-| :--- | :--- | :--- |
-| **BrodyAgri / AgriRadar** | `Next.js 15` `Supabase` `Tailwind` | Precision Agriculture & AI Crop Vision System |
-| **Sistem TU (Kaffah Edu)** | `Laravel` `MySQL` `Nginx` | Enterprise School Management & Financial Administration |
-| **WiFi AI & IoT Gateways** | `Node.js` `Python` `RFID` | Intelligent IoT Infrastructure & Automated Network Auth |
+- 🌾 **BrodyAgri / AgriRadar:** `Next.js 15` • `Supabase` • `Tailwind` — *Precision Agriculture & AI Crop Vision System*
+- 🏫 **Sistem TU (Kaffah Edu):** `Laravel` • `MySQL` • `Nginx` — *Enterprise School Management & Financial Administration*
+- 📡 **WiFi AI & IoT Gateways:** `Node.js` • `Python` • `RFID` — *Intelligent IoT Infrastructure & Automated Network Auth*
 
 ---
 
